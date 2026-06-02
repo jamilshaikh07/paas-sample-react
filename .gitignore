@@ -1,0 +1,9 @@
+node_modules
+dist
+build
+public
+.astro
+.cache
+.env
+.env.*
+npm-debug.log
